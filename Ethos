@@ -1,0 +1,41 @@
+Ethos
+
+Two questions: 
+
+How do we as a Species go to Mars?
+What would Satoshi spend his coins on?
+
+If you think long enough on these two questions and their implications you may arrive at the same intersection we had. But first, for background, we present a excerpt from Gigi’s book 21 Lessons - What I've Learned From Falling Down the Bitcoin Rabbit Hole
+
+“Bitcoin keeps track of a set of unspent transaction outputs, without ever having to refer to an entity which represents a bitcoin. The existence of a bitcoin is inferred by looking at the set of unspent transaction outputs and calling every entry with 100 million base units a bitcoin...So, what do you actually own when you say “I have a bitcoin” if there are no bitcoins? Well, remember all these strange words which you were forced to write down by the wallet you used? Turns out these magic words are what you own: a magic spell which can be used to add some entries to the public ledger — the keys to “move” some bitcoins. This is why, for all intents and purposes, your private keys are your bitcoins. If you think I’m making all of this up feel free to send me your private keys.’”
+
+You’re Bitcoin private keys are your Bitcoin. 
+
+Just like the president's nuclear launch keys (football suitcase) represents the power of the USA's entire nuclear arsenal, so too do your Bitcoin private keys represent digital capital power of a kind.
+
+In practise your Bitcoin private keys are essentially your Bitcoin. You lose them or destroy them, then your Bitcoin are as good as gone. But for those of you who don’t know, maybe we need to back up here. What is a private key?
+
+A Bitcoin private key can come in different shapes and sizes. Here are a couple examples of different formatted Bitcoin private keys (list not exhaustive).
+
+Hexadecimal: E9873D79C6D87DC0FB6A5778633389F4453213303DA61F20BD67FC233AA33262
+Base 58 WIF Format: 5Kb8kLf9zgWQnogidDA76MzPL6TsZZY36hWXMssSzNydYXYB9KF
+BIP39 Seed Phrase: witch collapse practice feed shame open despair creek road again ice least
+
+As you can see, Private keys come in a variety of formats. The above are standardized formats that many wallet applications use as a best practise format. But in essence, a private key is ultimately just a very specific large randomly selected number that is impossible to guess because it is so large and random. For more information on large numbers see Gigi’s chapter on “Strength in Numbers” from his book 21 Lessons. Thus there are an infinite number of ways to represent this very large number, whether with standard numbers and characters, or rune stones on a distant planet. Even art can represent a Bitcoin private key:
+
+
+“THE LEGEND OF SATOSHI NAKAMOTO,” THE PAINTING AT THE CENTER OF A 3-YEAR LONG, $50,000 BITCOIN PUZZLE. IMAGE: @COIN_ARTIST”
+Bitcoin private keys can be used to restore your wallet from scratch. So if for some reason all electronics in your country have been destroyed by a solar flare and you have written down or memorized your private key, you can still recover your Bitcoin. Thus we arrive at the point: Bitcoin private keys are ultimately just very large carefully guarded and produced numbers.  Just information. And information is extremely mobile in this digital age.
+Going back to our first two questions now. How do we get to Mars, and what would Satoshi spend his coins on?
+Well first, there’s nothing on Mars but an extreme chance of death. There’s not much upside in going there at first. But long term it’s probably a necessary backup option for humanity. (sidenote: never have just one backup copy of your private key/seed-phrase either).
+Though the moon is probably a good place to start too, considering it’s proximity. It’s just not exactly the best self sustaining option when earth gets incinerated by the sun eventually. Thus we do need to think further out as a species with low time preference long long term. Mars is a potential answer to many of these intergenerational challenges for humanity.
+Coming back to the present, the baby step in this process to Star Trek is getting a human to Mars and back. The upfront cost for this first mission is enormous.
+So wouldn’t it be cool if Bitcoin could help?
+Allow me to make a leap in logic here. If we assume the Bitcoin trend continues and it eats the world, won’t that also mean it will also eat the solar system?
+We are still very early in this anti-cantillion 2nd stage civilization money. Therefore, we pioneers have a unique opportunity to create an incentive for humanity long term, as the upside is still sizeable for Bitcoin as intergalactic money.
+And unfortunately for us, we have to think beyond our own life times on this one. Thus, this is perhaps more an intergenerational mission than an immediate one.
+What is this mission?
+I want to send a secure Bitcoin private key generation machine, titanian private key storage device and human only accessible vault to Mars.
+I call this Mission: KEYS2140 
+Rational: Bitcoin can serve as the monetary incentive to go to Mars. A Bitcoin bounty if you will.
+Benefits: if the trend continues and Bitcoin becomes all we hope it to be and more, then the bounty will naturally become larger overtime in fiat terms. Furthermore, people who agree with this mission may wish to donate their own Bitcoin to the receiving address of this vault to increase the Bounty. And to a certain extent, the bounty also acts as a timelocked burn address, thereby reducing the overall floating supply of Bitcoin even more, which could have a small psychological effect on price to the upside.
